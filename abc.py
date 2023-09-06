@@ -8,3 +8,5 @@ b=False
 
 ppv="popo vigno"
 
+for i in range(10):
+    print(i)
