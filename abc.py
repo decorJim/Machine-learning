@@ -8,3 +8,5 @@ b=False
 
 a="GOOD" if b else "SUPER"
 
+for i in range(10):
+    print(i)
