@@ -10,3 +10,7 @@ a="GOOD" if b else "SUPER"
 
 for i in range(10):
     print(i)
+
+m="machine indeed"
+
+print(m)
