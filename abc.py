@@ -6,5 +6,5 @@ print(a)
 
 b=False
 
-a="GOOD" if b else "SUPER"
+ppv="popo vigno"
 
