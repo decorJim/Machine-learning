@@ -15,3 +15,11 @@ for i in range(10):
 
 # git merge master: take changes from master to paste it in current branch
 
+
+hashset = set()
+
+for i in array:
+    if i not in hashset:
+         hashset.add(i)
+
+print(hashset)
