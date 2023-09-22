@@ -13,7 +13,12 @@ a="GOOD" if b else "SUPER"
 for i in range(10):
     print(i)
 
+# git checkout main
+# git pull origin
+# git checkout branch
 # git merge master: take changes from master to paste it in current branch
+# resolve conflicts
+# git push
 
 
 hashset = set()
